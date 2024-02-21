@@ -1,0 +1,37 @@
+* {
+    background-color: lightblue;
+}
+
+.header {
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 50px;
+}
+
+#TD {
+    text-align: right;
+    padding-right: 350px;
+    font-weight: bolder;
+}
+
+#currentDate {
+    text-align: right;
+    padding-right: 350px;
+    font-weight: bolder;
+}
+
+
+
+footer {
+    text-align: center;
+    padding-top: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .container {
+        width: 80%;
+    }
+}
